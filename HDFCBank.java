@@ -12,6 +12,7 @@ HDFCBank()
 	r1.cibillscore();
 RBIBank r2=new HDFCBank();
 r2.cibillscore();
+		System.out.println("Done");
 	}
 
 	void cibillscore()
