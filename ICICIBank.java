@@ -12,8 +12,7 @@ public class ICICIBank extends RBIBank {
 	public static void main(String[] args) {
 		ICICIBank i1=new ICICIBank();
 		i1.cibillscore();
-		
-
+		System.out.println("Done");
 	}
 
 }
